@@ -364,10 +364,12 @@ pip install -e .
 ## Citing FinRobot
 ```
 @article{yang2024finrobot,
-  title={FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models},
-  author={Yang, Hongyang and Zhang, Boyu and Wang, Neng and Guo, Cheng and Zhang, Xiaoli and Lin, Likun and Wang, Junlin and Zhou, Tianyu and Guan, Mao and Zhang, Runjia and others},
-  journal={arXiv preprint arXiv:2405.14767},
-  year={2024}
+  title   = {FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models},
+  author  = {Yang, Hongyang and Zhang, Boyu and Wang, Neng and Guo, Cheng and Zhang, Xiaoli and Lin, Likun and Wang, Junlin and Zhou, Tianyu and Guan, Mao and Zhang, Runjia and Wang, Christina Dan},
+  journal = {arXiv preprint arXiv:2405.14767},
+  year    = {2024},
+  doi     = {10.48550/arXiv.2405.14767},
+  url     = {https://arxiv.org/abs/2405.14767}
 }
 
 @inproceedings{
