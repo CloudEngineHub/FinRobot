@@ -20,7 +20,8 @@
 
 **Concept of AI Agent**: an AI Agent is an intelligent entity that uses large language models as its brain to perceive its environment, make decisions, and execute actions. Unlike traditional artificial intelligence, AI Agents possess the ability to independently think and utilize tools to progressively achieve given objectives.
 
-[Whitepaper of FinRobot](https://arxiv.org/abs/2405.14767)
+[Whitepaper on arXiv](https://arxiv.org/abs/2405.14767)  
+[Official Academic Page](https://ai4finance.org/research/finrobot-open-source-ai-agent.html)
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=FinRobot&countColor=%23B17A)
 [![Discord](https://dcbadge.limes.pink/api/server/trsr8SXpW5?v=20260320)](https://discord.gg/trsr8SXpW5)
